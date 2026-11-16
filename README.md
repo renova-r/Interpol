@@ -4,7 +4,7 @@ Numerical encoding and linear and non-linear interpolation of amino acid sequenc
 
 Compatibility updates by Renova.
 
-Version 1.3.1.9001: `NAMESPACE` imports `splinefun` from stats, which the package calls. No other file changed.
+Version 1.3.1.9001: `NAMESPACE` imports `splinefun` from stats, which the package calls. R function bodies are unchanged; metadata updates are described below.
 
 ## Install
 
